@@ -13,6 +13,7 @@ public class C01_arayaYaz {
         e.g:
 
 
+
         name1= mehmet
         name2= ahmet
         Print ==> mehahmetmet
