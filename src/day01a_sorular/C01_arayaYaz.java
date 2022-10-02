@@ -12,6 +12,7 @@ public class C01_arayaYaz {
         Then print the “Name2 cannot be inserted in the name1”
         e.g:
 
+
         name1= mehmet
         name2= ahmet
         Print ==> mehahmetmet
