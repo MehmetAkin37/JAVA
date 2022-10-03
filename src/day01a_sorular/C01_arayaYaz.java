@@ -33,6 +33,8 @@ public class C01_arayaYaz {
 
 // hocam sag alttaki main de sanki eksiklik var. githubla bag kurmuyor
 
+        // hocam bu sayfayi tekrar deneseniz gonderiyor mu ?
+
 
 
 
