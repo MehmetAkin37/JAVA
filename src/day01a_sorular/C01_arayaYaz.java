@@ -35,7 +35,9 @@ public class C01_arayaYaz {
 
         // hocam bu sayfayi tekrar deneseniz gonderiyor mu ?
 
+        // tamamdir hocam. tekrar ayni problemle karsilasirsam nasil cozerim ?hata kodunu google a yazın mutlaka birinin başından gecmiştir stacowerflow sitesi var
 
+// Tamam ins cok tesekkur ederim. hayirli gunler rica ederim kolay gelsin sagolun size de
 
 
 
